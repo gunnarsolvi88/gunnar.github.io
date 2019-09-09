@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Hobbies
+  link: /hobbies.html
+- name: Linux
+  link: /linux.html
+- name: Blog
+  link: /blog.html
+- name: About
+  link: /about.html
