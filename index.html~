@@ -12,10 +12,14 @@ title: Home
 	<body>
 	<ul>
 	<li><h2>Áhugamál</h2></li>
-	<li><p>Ég hef mestan áhuga á gömlum vélbúnaði og hugbúnaði</p></li>
+	<p>Ég hef mestan áhuga á gömlum vélbúnaði og hugbúnaði, ég vil frekar gera við hluti heldur en að henda þeim.</p>
+	<p>Ég hef líka rosa gaman af gömlum tölvuleikjum og forritun.</p>
+	
+	
 	</ul>
 	
 	
+	<a href="assets/images/computer1.jpg"><img src="assets/images/computer1_thumbnail.jpeg" width="x" height="250" border="0"></a><a href="assets/images/computer2.jpg"><img src="assets/images/computer2_thumbnail.jpeg" width="x" height="250" border="0"></a><a href="assets/images/computer3.jpg"><img src="assets/images/computer3_thumbnail.jpeg" width="x" height="250" border="0"></a><a href="assets/images/computer4.jpg"><img src="assets/images/computer4_thumbnail.jpeg" width="x" height="250" border="0"></a>
 	
 	
 	
