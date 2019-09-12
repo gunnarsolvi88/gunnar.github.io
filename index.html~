@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Home
 ---
 <!doctype html>
@@ -8,10 +7,16 @@ title: Home
 		<meta charset="utf-8">
 		<title>{{page.title}}</title>
 	</head>
-
-		
+	
 
 	<body>
+	<ul>
+	<li><h2>Áhugamál</h2></li>
+	<li><p>Ég hef mestan áhuga á gömlum vélbúnaði og hugbúnaði</p></li>
+	</ul>
+	
+	
+	
 	
 	
 	</body>
